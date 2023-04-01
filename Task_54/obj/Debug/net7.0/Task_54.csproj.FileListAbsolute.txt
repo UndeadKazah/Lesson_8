@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\bin\Debug\net7.0\Task_54.exe
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\bin\Debug\net7.0\Task_54.deps.json
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\bin\Debug\net7.0\Task_54.runtimeconfig.json
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\bin\Debug\net7.0\Task_54.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\bin\Debug\net7.0\Task_54.pdb
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.AssemblyInfo.cs
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\refint\Task_54.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.pdb
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\Task_54.genruntimeconfig.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_8\Task_54\obj\Debug\net7.0\ref\Task_54.dll
